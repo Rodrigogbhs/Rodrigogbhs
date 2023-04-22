@@ -1,5 +1,7 @@
 ### Olá eu sou o Rodrigo Guimarães 💻
 
+Gestor de Tráfego e estudando o mundo do GROWTH HACKING
+
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogbhs&show_icons=true&theme=tokyonight)
 
