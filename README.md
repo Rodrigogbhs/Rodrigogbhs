@@ -5,8 +5,12 @@
 <br clear="both">
 
 <div align="center">
+ 
   ![rodrigogbhs's Stats](https://github-readme-stats.vercel.app/api?username=rodrigogbhs&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-  div/>
+  ![rodrigogbhs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogbhs&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+  ![rodrigogbhs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigogbhs&theme=tokyonight&hide_border=false) 
+  
+
 ###
 
 <div align="center">
