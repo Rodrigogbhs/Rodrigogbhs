@@ -5,9 +5,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?rodrigogbhs=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
+  ![rodrigogbhs's Stats](https://github-readme-stats.vercel.app/api?username=rodrigogbhs&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+  div/>
 ###
 
 <div align="center">
@@ -48,6 +47,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rodrigogbhs/rodrigogbhs/output/snake.svg" alt="Snake animation" />
-
-###
